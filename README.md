@@ -15,7 +15,7 @@
 ![Tecnologías](https://img.shields.io/badge/Tecnologías-Java%20|%20HTML%20|%20CSS%20|%20JS-green)
 
 **Proyecto para la materia Laboratorio de Desarrollo de Software**  
-**Empresa ficticia:** 4Bytes
+**Develop Team:** 4Bytes
 
 ---
 
@@ -46,7 +46,6 @@ GRCU Manager es una aplicación WEB diseñada para **gestionar de manera ordenad
   <img src="assets/screenshots/matriz.png" alt="Matriz de trazabilidad" width="600"/>
 </p>
 
-> Reemplaza estas imágenes por tus propias capturas del proyecto.
 
 ---
 
@@ -81,10 +80,7 @@ http://localhost:8080
 
 ## 🎯 Característica innovadora
 
-> Aquí puedes describir tu funcionalidad extra, por ejemplo:  
-> - Dashboard visual de progreso de requerimientos  
-> - Notificaciones automáticas al cambiar un requerimiento  
-> - Integración con herramientas externas como Trello o Jira  
+ 
 
 ---
 
