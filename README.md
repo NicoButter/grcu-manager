@@ -3,7 +3,6 @@
   <img src="img/unpa_logo.png" alt="Logo UNPA" width="200"/>
 </p>
 
-
 <p align="center">
   <img src="img/4bytes_logo.png" alt="Logo UNPA" width="200"/>
 </p>
@@ -40,10 +39,10 @@ GRCU Manager es una aplicación WEB diseñada para **gestionar de manera ordenad
 ## 🖥 Capturas de pantalla
 
 <p align="center">
-  <img src="assets/screenshots/dashboard.png" alt="Dashboard" width="600"/>
+  <img src="img/4bytes_logo.png" alt="Logo UNPA" width="200"/>
 </p>
 <p align="center">
-  <img src="assets/screenshots/matriz.png" alt="Matriz de trazabilidad" width="600"/>
+  <img src="img/4bytes_logo.png" alt="Logo UNPA" width="200"/>
 </p>
 
 
