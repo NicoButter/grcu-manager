@@ -1,0 +1,704 @@
+Casi, Engineer 2x4.
+Bienvenidos.
+Como se toma esta caja,
+y también las cualeno.
+Las cualeno todas.
+No vieron todo lo que he visto.
+¿Pensamos que lo que hemos empezado a poner, sin no vamos a poner todo?
+¿Cómo qué?
+Pueden dejarse que lo...
+Y escucha.
+¿Qué le esto?
+No sé, no escucha.
+¿Puedes ponerle a hacer?
+¿Eh?
+¿No?
+¿No?
+¿No?
+Sí, pero ya me entran todos.
+¿Puedes dejar con ellos?
+¿Sos un grupo que va a hacer?
+¿Pensarán?
+Ya.
+No.
+¿Pueden dejar?
+Vamos por loco, en la entrena no se falta, pero eso va a mostrarle.
+Es un foco al momento de que viste.
+¿Qué pueden hacer?
+No.
+¿Qué pueden hacer?
+Vaya.
+¿Vaya?
+¿Vaya?
+¿Vaya?
+¿Quién es?
+¿Quién es?
+¿Cuánto usted salda?
+Sí, podemos preparar un incremento.
+¿Sató los grupos tienen una hora para ponerse a puero o que?
+¿Qué no lo acabara hacer de algo?
+Bien.
+¿Están?
+¿Quién son ustedes?
+Bueno, somos el equipo 4 y hay.
+¿Qué hacen que el sistema no?
+¿Qué hay?
+No, no.
+¿Vamos a ocuparlo?
+¿Vamos a ocuparlo?
+¿Vamos a ocuparlo?
+¿Está bien que daba que, pero a un en despaz?
+¿Qué no?
+¿Qué?
+¿Está bien chapa?
+¿Está bien chapa?
+¿Qué no pasa?
+Bien, le echamos.
+Bueno, claro, somos el equipo de Sergio Porto Vaz
+y vamos a ver si no lo reíclan.
+¿Qué te digo?
+¿Qué tenemos que llevar a cabo?
+Bueno, antes de empezar,
+cuando lo reíclan y sigamos consolidarles,
+si podemos dar a cabo.
+Bueno, bueno.
+Bueno, según lo que revisamos,
+la idea es desarrollar un software
+que les permite registrar los requerimientos,
+organizarlos y revisarlos
+utilizando la penita mojucó,
+mantener un historial
+de que se pueda ver.
+Bueno, según lo que revisamos,
+la idea es desarrollar un software
+que les permite registrar los requerimientos
+organizarlos y revisarlos
+utilizando la penita mojucó,
+mantener un historial de cambios
+y vincularlos con los casos de uso
+otra vez de la maltriz de trazabilidad,
+además de incluir,
+comentarlos y adjunto.
+Esta descripción refleja
+lo que estén en la herramienta.
+Es parte sí.
+La de la primización,
+entiendo que es una forma de orgarlo,
+no sale receta de corredor.
+Se refiere la reposición emboscada.
+Es el voluntad para afetar con el sumo de corredor.
+Claro, decidimos hacer esa pregunta específica
+porque el enunciado
+lo solicita como algo necesario.
+¿Cero no?
+Sí.
+No, no, no, es deciden esa serie.
+Sí, así no la prioridad me anotamos
+esa técnica.
+Están en segundo parrofo.
+Espera, espera.
+Es esperado.
+Sí, pero bueno.
+En realidad la idea
+a poder incluir
+esa técnica o alguna otra.
+¿Qué es?
+¿Qué es?
+¿Alguna otra?
+Por ejemplo, en el último parrofo
+de nuestro enunciado
+que nos entregamos
+y sé algo que también podría mencionar.
+Esto mismo.
+Sí, que es mejor hablar.
+Después pueden proponer
+contra algo distinto.
+Sí.
+Superador, nuevo viejo
+sea un propone, un proponente.
+Igual la priorización en sí no
+en lo central
+de los requedimientos
+sino poder gestionar.
+Lo primero que necesitamos tener es
+una herramienta donde podamos
+identificarlos requerimiento
+de cogenar los casos de uso
+de una forma para poder
+desprendernos un poco de las
+de los documentos de PCI
+siguiendo la misma línea
+que propone PCI,
+pero tratando de llevar
+algo más digital.
+Y hoy, por ejemplo,
+con los proyectos nos estamos viendo
+que traer impresos, los proyectos,
+y ya antes,
+pero sí,
+termina siendo por yo un poco
+repetitivo para los alumnos
+de tener que estar
+saneando los documentos
+por el país se podría generar
+de forma automatizada
+y se veiramos un sistema
+donde se descargamos.
+O sea, actualmente ustedes
+registran todo manuales,
+con un documento
+que es lo que quiera hacer
+digitalizarlo.
+El proceso.
+Automatizadlo.
+Es un malo.
+Que era un mejorado
+y que se desarmatizaron.
+Es un documento de digital.
+Es un documento de digital
+porque no es automático,
+sino que en todo caso
+la generación de los informes
+sería hasta automática,
+pero no el proceso de
+la carga sería manual.
+O sea, también la identificación
+es el documento de todo,
+si es el proceso manual,
+pero en vez de generar los documentos
+de especificación de requerimiento,
+no vamos a hacer automáticamente
+una especificación.
+No, no, no.
+Si, a ver que apuntarlo de alguna forma
+o hacerlo ahí,
+si hubiese algún
+forma práctica
+y si no, apuntarlo desde otro lado,
+pero poder tener ahí los requerimientos
+y poder arrastrar el cambio
+de igual.
+Ok.
+Esa está buena porque,
+a mediar como el proceso
+que se propone
+es iterativo,
+hay cambios sobre
+requerimientos que se modifican,
+se mejoran y
+estaría bueno poder ver
+un historial de esos cambios.
+Estaba teniendo una transabilidad.
+Claro,
+yo tengo los requerimientos
+en una etapa,
+pero después si
+lo vamos a mejorar
+y lo vamos a hacer
+a ver un cambio de eso,
+no, que yo entre
+requerimiento y lo modifico
+ustedes cuando lo hacen
+y cuando trabajan con
+el documento,
+pero ya no me va a ver
+si he encontrado esto.
+Siguiendo en esa línea
+ya que estamos con
+el documento, ¿cuál es la
+nueva?
+Me salvo de cliente y me pongo
+al profe.
+No era que ella
+todos eran los dos.
+Pero no estaban malacostos.
+Pero le pregunto
+pero sí, sí, sí, sí.
+Yo ha detrás.
+¿Ela es la misma de ustedes?
+Vinimos en la post.
+Ya, ¿sabrón?
+No, no, no, no.
+¿Mantaron para acá?
+No, no, no.
+Está bien, está perfecto.
+Lo para que estuviera
+en el equipo y que todos
+escucharon.
+¿Cómo de la post?
+El hijo de esta proyendo.
+Justo me estaba respondiendo
+lo que yo le prentito se estaba
+reprugantando, ¿no?
+Pero estoy en la esposa.
+Son parte de tu gente.
+Pueden intervenir.
+No, no.
+Sólo regundo.
+Deciden, ¿sabes?
+Y, ¿qué tal?
+Vamos a darle el horror.
+No hablamos más.
+Bueno.
+En cuando a los roles y permisos,
+¿qué tipos de usuarios
+usarán el sistema?
+No sabemos si yo le entiendo que
+proponerte, pero se me ocurre.
+¿Qué nos interesa que
+es un sentido incliiente o
+vamos a pensar
+algo en este condor realado
+y cliente interactúe con el sistema?
+Como por ejemplo,
+no estaba queriendo mucho,
+pero estaré bueno que el cliente
+pueda confirmar un refrimiento o
+una olada de refugiados,
+como estar una cosa o
+evaluarlos o dar una importancia.
+Ahí puede haber un...
+¿Cómo quieren?
+¿Cómo?
+Y por ahí no estás presado igual
+en los tres proyectos,
+pero todos los proyectos
+tienen que ser multi-proyectos.
+Y donde el sistema puede tener
+distintos dolores de acuerdo al proyecto.
+¿Qué significa?
+El sistema tiene que ser un proyecto
+de los usuarios del sistema,
+puede tener distintos dolores de acuerdo al proyecto.
+El proyecto que sigue en la herramienta
+está a ganar, tiene que ser
+considerado considerado
+para de cuarces cualquier tipo de proyecto.
+Claro.
+El texto de la materia,
+pero puede ser un proyecto
+de la materia de reaccion,
+o sea, tiene que ver.
+Así que, ahí tiene bastante para
+tener...
+Pero a mí me quedó una cosa
+del pregunta anterior.
+Nosotros somos como canser veos,
+somos tres cabes.
+No, no, no, no.
+Sólo cuerpo que la...
+Sí, en parte de nada parece un toque de
+tuyo.
+El laboratorio de software,
+pero como les dijimos,
+cada uno puede tener ideas distintas para mí,
+lo importante del sistema,
+para mí,
+yo, y el cliente, yo,
+sí, ¿no?
+Importante del sistema,
+además, de poder identificar los requerimientos,
+es asegurarnos
+que todos los requerimientos
+están cubiertos,
+al momento de hacer el desarrollo,
+y de que no hay casos de uso,
+que no hacen nada con los requerimientos.
+Para eso, la materia de...
+de trazabilidad.
+Entonces, si ustedes tienen un requerimiento
+que la está cubierto con ningún caso de uso,
+es un problema.
+Y eso es algo que nos pasaba
+en proyectos de hace años.
+¿Qué avanzaban?
+Porque sí, y lo más o menos lo que se les ocurría,
+y lo sumta que después había funcionalidad
+que no estaban.
+Y eso nos puede pasar.
+Y eso sí le parece que el cliente
+se sienta escuchado
+y ve el valor que ustedes hacen en el desarrollo.
+Entonces, perigo, el desarrollo,
+al DACA,
+seguramente el priorizado.
+¿O no está claro?
+¿O no está claro? ¿Cuál es la funcionalidad clave?
+Claro.
+Si me hablamos,
+acá vamos hablando del Mosco,
+que entra a la lidad,
+y es algo por ahí que el persona no gustaría
+si se pudiera incluir,
+pero bueno, lo personal es el tema
+de la relación del requerimiento con casos de uso.
+Y por ahí, el cliente tiene otra idea,
+pero al final, si no se puede que estén a los requerimientos,
+no hay nada de realización de nada.
+Entonces, ahí hay una,
+hay algunas funcionalidades que se tienen que poder generar bien,
+que no puedan hacer por desde la herramienta.
+Sin tener que ir a estos documentos de papel,
+pero sin perder nada lo que estaba ahí donde...
+Sí.
+Sí.
+Después de tipo de usuario parte de cliente,
+vamos a tener que tener dos roles de docente
+y los desarrolladores que hacían para los...
+Bueno, dentro de la aplicación,
+desean que todos los usuarios puedan ver lo mismo
+o que haya distintos niveles de acceso
+se pueden realizar en realidad a persona.
+No se olviden,
+¿Y qué hicimos?
+Tiene que ver.
+Sí, sí, sí.
+Seamos dedicados a la persona a tengan,
+sábamos sobre la ver, sábamos...
+Y no hay nada para ponerlo.
+Claro, choco, podemos puderme...
+Vamos, vamos, vamos, vamos, vamos.
+El objetivo está, pero en fin, esta pregunta,
+es tratar de entender si ustedes necesitan
+que el sistema sea, por ejemplo, administrado por un rol,
+consultado por otro valor,
+o visitado por otro tipo de valor.
+Y usted también piensa en esto.
+¿Soy más así?
+El cliente.
+Y ahí tienen funcionariedades como hacer
+el segmento de las modificaciones que ha tenido
+un requerimiento.
+Ahora hay al cliente,
+eso es lo enúgula y cuiso.
+Lo que para ahí no es conveniente.
+Eso también tiene que poder con los ustedes
+hacer conocimiento que tienen de la red domínio.
+Y usted puede ir con un ejemplo,
+yo dice eso exactamente, pero...
+Y acuerdo a cada funcionalidad y de los roles que tengan
+tendrán que ver si todo va a poder hacer todo.
+El cliente solo va a poder ver,
+y no necesariamente todo,
+de haber algunas cosas, porque uno,
+tal vez le interese el matriz.
+¿Alguna validación, alguna,
+algún comentario,
+o validar requerimiento,
+o validar casadosos,
+o dar un fito acá,
+pero no va a venir a ponerse a editar las cosas,
+y si fuera un desalo,
+crearon un requerimiento seguramente,
+no, eso es lo que tiene que entender de ustedes,
+pero por el siguiente,
+es crear las cosas.
+Y después como administrador del sistema,
+nada que ninguno le daba,
+fue lo frente tanto en el sistema.
+Como administrador del sistema,
+debería poderse crear los proyectos y asignárselos a los usuarios,
+los proyectos usuarios,
+y asignar al desalo de usuarios con un rol,
+en cada proyecto de crea que sería nuestro proceso,
+como 200 de ahí,
+y poder dar de alta, por ejemplo acá,
+crearíamos tres proyectos,
+y crearíamos los 14 de dar uno como usuarios,
+y nos iríamos en cada proyecto,
+con el rol que lo has puesto.
+Y algún otro que pueda surgir.
+Bueno, sobre la gestión de requerimientos,
+¿qué información mínima debería completarse
+al crear un nuevo requerimiento?
+Mínimo lo que están que se di.
+Mínimo, mínimo, mínimo.
+A ponerse el dinero.
+A ponerse el dinero, que se está basado
+en una metodología de desarrollo,
+con una forma de...
+de hacerlo proyecto,
+pero en la única.
+Tiene que hacerlo suficientemente de los altos para que su aplicación
+pueda ser usada para alguien que tiene una forma de hacer algo por lo que hagan.
+Si se puede extraer de la metodología de desarrollo.
+Siempre partiendo de la base del PCI,
+¿totado?
+No puede tener menos información que eso,
+tampoco el que tiene tanta.
+Mínimo, pero no es realmente suficientes.
+Pero...
+No puede ser menos eso porque tiene que...
+tendría que alcanzar para que la podamos usar en esta batería.
+Y que se pueda adaptar y otra forma de cargar el...
+Tocen, sí que pueda digamos que tengas toda la información que se requiere
+y que se requiere el requerimiento de casa lusa.
+¿A cuarenta de las usuarias van a ser el proyecto?
+El show de futuras.
+¿Estaría bueno por el show, ¿saben?
+Ya requiere.
+Ya requiere.
+Se requiere.
+¿Trabajo o finas de el vídeo?
+Bueno, en el documento se menciona que cada requerimiento debería tener un hilo de comentarios.
+Podrían precisar a que se refieren con esta fiscalidad.
+¿En serio?
+¿Estás bueno?
+¿Qué tal es el vídeo?
+El vídeo, como dice...
+Ya verás, es...
+A ver el hilo de...
+El historial de...
+de comentarios será...
+poder hacer observaciones y que queda registrado el usuario y...
+que por comís como...
+Los comentarios y comentarios.
+¿Cómo hagas observación con un ímpoto o no pones escribir algo?
+Sí, pero queda bien decirlo que lo he dicho.
+¿Qué no es lo que fuera de alguna forma al estirado del feiro usted y 74 personas han hecho comentarios aquí?
+No tantalas, pero...
+Los clientes, entre el sistema, ve lo requerimiento.
+Y hay algo que le hace ruido, puede hacer ahí mismo.
+Una claración, por ejemplo.
+En los comentarios, el hilo de comentarios era un gudo, es comparte.
+Cuando se hizo, quien lo hizo, y el comentario por ahí...
+El fe hecho de ellos, el hermano, nos referencia.
+La referencia a la sección que sea, digamos, la referencia de eso como para...
+...creadcar, como...
+...por verlo, como para poder tener...
+Podría siendo de alguna forma...
+...anotaciones, como si fuera siendo notaciones sobre...
+...y eso hoy lo tengo en el World, por ejemplo.
+Tengo que trabajar en el World y tengo que pasar el aumento a mi compañero,
+los requerimientos para la vea.
+Y bueno, no me puede poner comentarios en el distinto,
+es que lo quiero que sea así, visualmente.
+No, no, no, no, no.
+Hay que ver, de qué no forja se puede ver eso.
+Sí, eso.
+Sí, está bien, pero vamos a suferir en nosotros,
+pero para antes, solamente en los ejemplos.
+Tengo la en cuenta que está ahí el rol de documentador o el verificador artester,
+que no es solo artester de código,
+que está en este caso.
+Y que es que hay que ver los propuestos, estoy completo.
+Sí.
+Que tiene que validar o alguien,
+va a tener que validar, que los requerimientos también,
+y quizás no es la persona que le va a...
+No es que el encuentro los problemas, se pone necesariamente a tener que...
+...arrescribir todo lo que escribió a más de otros.
+Hay alguien se encarga de revisar lo que, si te vove, por ejemplo,
+y que va a marcar de ese bueno, esto es una malesfrito, ¿verdad?
+Si es un asento, ¿verdad?
+De lo que lo corregí, ¿verdad?
+Sí, pero si hay algo que esté en completo,
+lo que tiene que ver lo que va.
+Y un perque de mi, un perque de mi, un perque de mi, un perque de mi.
+Sí, de todas las observaciones y quedará ahí para dar,
+como ayuda memoria o para que lo tenga que hacer de acuerdo a los revistas.
+¿O qué?
+Una forma que pueda que pueda haber su cambio,
+esa necesidad de calma por favor.
+¿Qué tipos de archivos consiguran necesarios poder alcintar?
+Y en eso sí, la verdad es que...
+Es como en el ases por lo menos, con mi pervín, cuyo es el otro lado.
+El teo de la vez en los encercos.
+Y imágenes como diagramas pueden ser también...
+Imágenes...
+...vintera ahí, todo lo que comprometa muy bien.
+Y imágenes para todo esto, por ejemplo,
+cuando se cae en informe, poder meterle,
+o generar un modelo que ha subido, por ejemplo, con el diagrama.
+No generar necesariamente el diagrama ahí,
+sino ajustarles para poder vincularlo con ese...
+Para poder ver.
+Sí, si quieren ser el tema de diagrama,
+a ver, en un ases.
+A ver, me irás a contornir más.
+Ahí sí pueden poner restricciones, por ejemplo,
+la relación con el diagrama de tantas mañas,
+a los que, por ejemplo, si tienes que juntar un video,
+no pueden hacer, sino que el punto de un enlace,
+cada uno de ellos genera otros problemas.
+¿Ok?
+Bueno, actualmente utilizan algunas herramientas
+o motor de base datos que deciden mantener,
+o prefieren que, como vemos, le pusimos a deporte.
+¿Qué conocida de monstruos?
+Sí, tiene que ser software libre,
+nada de software pirata,
+ni tenemos plata para licenciar.
+Tenemos licenciada nada.
+No le hemos hecho de monstruos para ello,
+ya tienen que saber que es el producto,
+se va a utilizar la albermancia pública,
+que es una mulea.
+Bueno, por favor.
+¿Cómo digo piratía?
+Tengo ningún logaritmo de descripción,
+que también está expresada, que es lo de Warflow.
+Así que ahí tienen que ver si también hay algo por ese lado.
+Nos empiezan a reír a ustedes,
+o sea, guardan terceros que pueden llegar a libre diez de terceros
+pueden incorporar,
+siempre respetando la albermancia.
+La albermancia.
+Siempre, si piensé que va a ser utilizada
+el contexto de la albermancia, ya saben,
+no estamos tomando la albermancia.
+Y queremos que lo se lo salen.
+O sea, tiene que poder desplegarse.
+Sí, sí, igual que ese tranquilo,
+que el espíritu de 4 bytes está selejado.
+No se va a funcionar.
+No se va a funcionar.
+No se va a funcionar.
+Bueno, la aplicación debería estar disponible
+como asociación web,
+es criatorio o contemplar a más posibilidades.
+¿Qué tal o no?
+No se me da ahí.
+Si, vamos web.
+Bueno, solemos que me dejamos una vez web,
+pero me da sí, te...
+Explaní en su volante.
+Ok, acabo.
+Sí, pero está convidado.
+Sí, por eso, pero eso es que no se complique solo.
+Tengo que estar delicado para amasarles.
+Claro.
+Y igual, está.
+Sí, está.
+Es muy tesuario.
+Y sí, y que es una vez...
+Y que es suave.
+Y que la podemos intergar.
+Claro, y que la podemos intergar.
+Es un territorio, son unos dubus,
+y que son un computador acá, y...
+Te tiene que complicar en esa parte.
+No se ve que sí, no te ve que sí.
+Lo decimos a tantos.
+Podemos, después, entonces, suje bien como una mejora
+que está desde que este sistema tenga
+algún tipo de acceso web o la posibilidad de instalarse en un servidor
+y que sea...
+¿Usted ha llamado el plata que sea una aplicación de escritoria?
+¿No se armente?
+No, no se armente.
+No, no se armente.
+No se armente.
+No se armente.
+¿Para qué risco?
+Si este no lo está contabrando.
+No se, por ahí va a carregir.
+Por ahí, ¿sían bueno?
+Claro.
+No, sí.
+Pero no se ha tenido bueno.
+Claro.
+No frecamos que no te interesa aquí.
+¿Pues un paré de ese?
+O a la otra vez.
+¿Picaría que fuera una aplicación web?
+Pero después de una vez una palenta, ya que...
+Definíamos que en el aplicación web porque el paré de los que estoy confundido,
+aplicación web...
+Recuerden no que es para asegurar.
+No refiero que corren una vez.
+Es como un paré de ese povo.
+Exacto.
+Por eso quería definirlo.
+¿No?
+¿De qué?
+¿De qué?
+¿De qué?
+¿De qué?
+¿De qué?
+¿De qué?
+¿De qué?
+¿De qué?
+Claro.
+Me refería que los ejecutes de cada máquina es un naveador.
+¿De qué?
+La tonal de su.
+La tonal de su.
+La tonal de su.
+Porque por ahí el espíritu de la aplicación,
+para que lo utilicen todos los cátadas, por ejemplo.
+¿De qué?
+Los que tenemos que hacer es decir.
+Pero la meten en un servidor y bueno, ahora...
+¿De qué?
+Eso es una aplicación web.
+Y bueno, por eso es una dirección en el enlace de la aplicación de secretario.
+Algo local.
+Sí, sí.
+Por más que, pues, ya no hayan respeto, pero por el que no sea...
+Como el profe que ha dicho que se da escarga, que ha dicho que entendís...
+Claro, lo que ha dicho es el exterior.
+Por eso, no te dejo que diga así.
+Bueno, aplicación web.
+Perfecto.
+Y ahí se han hecho una idea.
+¿Qué es más?
+Cuatro.
+Está bueno.
+¿Se le he hecho 3, eh?
+Conucir a la entrevistada que te confinere.
+¿De qué?
+¿De qué?
+La aventura.
+¿De qué?
+¿De qué?
+Ahora, estamos...
+Y pues, ya dicen la ventaja.
+Estamos poniendo y indizadas, ¿sí que lo hemos visto?
+¿Y qué diste no?
+No, no, no, no.
+Está porque ya lo sintimos, pero venía varias cosas más.
+Sí.
+Bueno, hay algún aspecto adicional que considera importante
+y que no somos mencionados.
+Sí, vayos.
+Sí.
+Entonces, cuarenta primera triunfa.
+¿Cómo quedaron tantas cosas en el trínculo?
+¿Qué os vien la mayoría de concedernos a otra entrevistas?
+La pregunta es cuál puedo ser lo normal.
+¿Un poco más?
+Pod integrar losfachos.
+Entonces, costamos por una entrevistada para ampliar esta.
+Igual también, porque el confirmio no es cuando tenemos bastante como para empezar.
+¿Quién que子 de elevator?
+Sí termcando asleep aqui de kaik .
+Y así comunionando.
+Sí.
+De新聞.
+A ver.
+Ari bzw.
+que vendimos oportunamente, pero esperamos que usted pueda encontrar algo más, que la investigación
+ya que eso va a aportar un valor a algo que no la echamos contemplado o algo diferente
+o algo nuevo, que yo te lo he�ado, que va a importe con el espíritu de cuatro horas.
+Se les vaya desde los tiempos ni que sea algo posible hacer, pero alguna cosita que nos
+puedan proponer que después se les va a decir si me da pero...
+Son cercanos en la niña, pero que también les vuelta el problema a un nivel que se prenda
+el producto, mejoré todo el proceso de las duras que se te atreven.
+Muchísimas gracias por la consejera.
+La herramienta que con la que estás trabajando es otra, es lo mismo que cuando la gente
+sea, o hace algún tipo de proceso que va a ser papel, un expediente papel, antes de
+el expediente digital, con un trámite de cosas que necesitas hacerlo y repetirlo, y que cada
+paso sea generar un PDF que equivale a lo que sea el 100% media y el rendimiento.
+Las cosas de buen, organizar otra forma, tener discítulos incluso para ir poder...
+Cuentamos información de un memo lado que antes tenía que ir separado en distintos
+momentos, la trasalidad también por repetirlo.
+La cosa que se arrepetía es que bueno, puedes sacar que no necesitas volver a preguntar
+la verdad que hargan más.
+En este momento, cuenta de que la base, la documentación de pesicino, no será
+la requerimiento, sino de todo el caso de uso y específica cierta.
+La idea también puede pensar en cómo recordar los herramientos a través de la
+transferencia entre los mismos ádricos, para estar capable de promociar, para estar
+normalmente dispuesto, para considerar suivo.
+son donde firmes publicas y las
+zatragí
