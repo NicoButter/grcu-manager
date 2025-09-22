@@ -1,0 +1,165 @@
+/* --- Contenedor principal --- */
+.usuario-lista-container {
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* --- Título --- */
+.usuario-lista-titulo {
+    margin-bottom: 20px;
+    color: #444c8a;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* --- Botón crear --- */
+.usuario-lista-acciones {
+    margin-bottom: 15px;
+    text-align: right;
+}
+
+.usuario-lista-btn-crear {
+    background-color: #444c8a;
+    color: #fff;
+    padding: 8px 14px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.usuario-lista-btn-crear:hover {
+    background-color: #363c70;
+}
+
+/* --- Tabla --- */
+.usuario-lista-tabla {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.usuario-lista-tabla th {
+    background: #444c8a;
+    color: white;
+    padding: 12px;
+    text-align: center;
+}
+
+.usuario-lista-tabla td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.usuario-lista-tabla tr:hover {
+    background: #f4f6ff;
+}
+
+/* --- Avatar --- */
+.usuario-lista-avatar-cell {
+    width: 60px;
+    text-align: center;
+}
+
+.usuario-lista-avatar {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #444c8a;
+}
+
+.usuario-lista-avatar-fallback {
+    font-size: 2rem;
+    color: #444c8a;
+}
+
+/* --- Roles --- */
+.usuario-lista-rol {
+    display: inline-block;
+    background: #17a2b8;
+    color: #fff;
+    padding: 3px 8px;
+    margin: 2px;
+    border-radius: 12px;
+    font-size: 0.8rem;
+}
+
+.usuario-lista-sin-rol {
+    color: #aaa;
+    font-size: 0.9rem;
+}
+
+/* Botones de acción */
+.usuario-lista-btn-warning,
+.usuario-lista-btn-danger {
+    display: inline-block;
+    padding: 6px 10px;
+    margin: 0 2px;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    text-decoration: none;
+    color: #fff;
+    transition: background 0.2s;
+}
+
+.usuario-lista-btn-warning {
+    background-color: #ffb347;
+}
+
+.usuario-lista-btn-warning:hover {
+    background-color: #e09e34;
+}
+
+.usuario-lista-btn-danger {
+    background-color: #e74c3c;
+}
+
+.usuario-lista-btn-danger:hover {
+    background-color: #c0392b;
+}
+
+/* --- Fila vacía --- */
+.usuario-lista-vacio {
+    text-align: center;
+    color: #666;
+    font-style: italic;
+}
+
+/* --- Paginación --- */
+.usuario-lista-paginacion {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+}
+
+.usuario-lista-paginacion li {
+    margin: 0 5px;
+}
+
+.usuario-lista-paginacion a,
+.usuario-lista-paginacion span {
+    padding: 8px 12px;
+    border-radius: 6px;
+    color: #444c8a;
+    text-decoration: none;
+    border: 1px solid #ddd;
+    transition: background 0.2s;
+}
+
+.usuario-lista-paginacion a:hover {
+    background: #444c8a;
+    color: white;
+}
+
+.usuario-lista-paginacion .activo span {
+    background: #444c8a;
+    color: white;
+    border: 1px solid #444c8a;
+}

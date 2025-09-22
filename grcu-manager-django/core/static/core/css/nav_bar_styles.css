@@ -1,0 +1,35 @@
+.custom-navbar {
+    background-color: #343A40;
+    /* color institucional */
+    border-bottom: 4px solid #17A2B8;
+    padding: 0.3rem 1rem;
+    margin: 0;
+}
+
+.custom-navbar-menu {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.custom-navbar-menu li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 0.95rem;
+    display: flex;
+    align-items: center;
+    transition: color 0.2s ease-in-out;
+}
+
+.custom-navbar-menu li a i {
+    margin-right: 0.3rem;
+    font-size: 1.1rem;
+}
+
+.custom-navbar-menu li a:hover {
+    color: #17A2B8;
+}

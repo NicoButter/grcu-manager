@@ -1,0 +1,33 @@
+{% load static %}
+
+<header class="custom-header">
+    <div class="custom-header-container">
+
+        <!-- Logo -->
+        <a href="{% url 'dashboards:admin_dashboard' %}" class="custom-header-logo">
+            <img src="{% static 'accounts/img/logo_grcu_manager_1.png' %}" alt="Logo">
+        </a>
+
+        <!-- Usuario -->
+        {% if user.is_authenticated %}
+            <div class="custom-header-user">
+                {% if user.avatar %}
+                    <img src="{{ user.avatar }}" alt="Avatar" class="user-avatar">
+                {% else %}
+                    <i class="bi bi-person-circle user-avatar-fallback"></i>
+                {% endif %}
+                <span class="user-name">{{ user.get_full_name|default:user.username }}</span>
+                <a href="{% url 'accounts:logout' %}" class="logout-btn">
+                    <i class="bi bi-box-arrow-right"></i> Salir
+                </a>
+            </div>
+        {% else %}
+            {% comment %} <div class="custom-header-login">
+                <a href="{% url 'accounts:login' %}" class="login-btn">
+                    <i class="bi bi-box-arrow-in-right"></i> Iniciar sesión
+                </a>
+            </div> {% endcomment %}
+        {% endif %}
+
+    </div>
+</header>

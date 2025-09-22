@@ -1,0 +1,24 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    min-height: 30px;
+    background: #343A40;
+    color: #b6b6b6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    font-size: 0.8rem;
+    border-top: 4px solid #17A2B8;
+    z-index: 1000;
+}
+
+footer img {
+    height: 16px;
+}
+
+body {
+    padding-bottom: 40px;
+}

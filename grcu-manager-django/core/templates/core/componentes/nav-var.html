@@ -1,0 +1,31 @@
+{% load static %}
+
+<nav class="custom-navbar">
+    <ul class="custom-navbar-menu">
+
+        {% if user.is_authenticated and not 'login' in request.path %}
+            
+            <!-- Enlaces principales -->
+            <li>
+                <a href="{% url 'usuarios:lista' %}">
+                    <i class="bi bi-person"></i> Usuarios
+                </a>
+            </li>
+
+            {% if user.rol_principal == 'ADMIN' %}
+            <li>
+                <a href="{% url 'roles_lista' %}">
+                    <i class="bi bi-graph-up"></i> Roles
+                </a>
+            </li>
+
+            <li>
+                <a href="{% url 'permisos_lista' %}">
+                    <i class="bi bi-lock"></i> Permisos
+                </a>
+            </li>
+            {% endif %}
+
+        {% endif %}
+    </ul>
+</nav>

@@ -1,0 +1,52 @@
+{% extends "core/base.html" %}
+
+{% load static %}
+
+{% block title %}GRCU Manager - Login{% endblock %}
+
+{% block extra_css %}
+    <link rel="stylesheet" href="{% static 'accounts/css/login_styles.css' %}">
+{% endblock %}
+
+{% block content %}
+<div style="display: flex; justify-content: center; align-items: center; min-height: 80vh;">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8 col-lg-6">
+                <!-- Contenido principal -->
+                <div class="card shadow-sm border-0">
+                    <div class="card-header bg-white border-bottom">
+                        <h3 class="mb-0">GRCU Manager - Login</h3>
+                    </div>
+                    <div class="card-body p-4">
+                        <h5 class="mb-2">Bienvenido</h5>
+                        <p class="text-muted mb-3">
+                            Estimado usuario: Bienvenido a la aplicación GRCU Manager, una aplicación desarrollada en la UARG - UNPA.
+                        </p>
+
+                        <!-- Mensaje importante -->
+                        <div class="alert alert-info alert-dismissible fade show" role="alert">
+                            <i class="bi bi-exclamation-circle me-2"></i>
+                            <strong>Importante:</strong> Para acceder al sistema es necesario disponer de un correo de <a href="https://mail.google.com" target="_blank">GMail</a>.
+                        </div>
+
+                        <hr>
+
+                        <h5 class="mt-4 mb-2">Ingreso al Sistema</h5>
+                        <p class="text-muted mb-4">
+                            Ud. puede ingresar al sistema si está conectado a su e-mail. Por favor haga click en el botón a continuación y elija su cuenta o realice el login.
+                        </p>
+
+                        <!-- Botón de Google -->
+                        <a href="{% url 'accounts:google_login_redirect' %}" class="btn-google">
+                            <img src="{% static 'accounts/img/logo_google.png' %}" alt="Google Icon">
+                            Login con Google
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

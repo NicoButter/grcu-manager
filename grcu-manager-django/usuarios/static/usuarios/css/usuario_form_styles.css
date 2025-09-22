@@ -1,0 +1,77 @@
+.card {
+    background-color: #ffffff;
+}
+
+/* Avatar */
+.form-avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #444C8A;
+}
+
+.form-avatar-fallback {
+    font-size: 5rem;
+    color: #444C8A;
+}
+
+.form-label {
+    font-weight: 500;
+    color: #444C8A;
+}
+
+/* Botones */
+.btn-primary {
+    background-color: #444C8A;
+    border: none;
+    transition: background 0.2s;
+}
+
+.btn-primary:hover {
+    background-color: #363c70;
+}
+
+.btn-secondary {
+    background-color: #e0e0e0;
+    color: #333;
+}
+
+.btn-secondary:hover {
+    background-color: #cfcfcf;
+}
+
+/* Form switches */
+.form-check-label {
+    font-weight: 500;
+    color: #444C8A;
+}
+
+.roles-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 12px;
+    border-radius: 12px;
+    margin: 3px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    transition: transform 0.2s;
+}
+
+.roles-badge.active {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    transform: scale(1.1);
+}
+
+.roles-badge.inactive {
+    opacity: 0.5;
+}
+
+.rol-icon {
+    width: 90px;
+    height: 90px;
+    margin-right: 6px;
+    vertical-align: middle;
+}

@@ -1,0 +1,62 @@
+.custom-header {
+    background-color: #343A40;   /* color institucional */
+    padding: 0.5rem 1rem;
+    margin: 0;
+}
+
+.custom-header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.custom-header-logo img {
+    height: 45px;
+    display: block;
+}
+
+.custom-header-user {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #ffffff;
+}
+
+/* Avatar */
+.user-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid #17A2B8;
+    object-fit: cover;
+}
+
+.user-avatar-fallback {
+    font-size: 2rem;
+    color: #17A2B8;
+}
+
+/* Nombre */
+.user-name {
+    font-weight: 500;
+    color: #ffffff;
+}
+
+/* Botón logout */
+.logout-btn {
+    border: 1px solid #17A2B8;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    color: #17A2B8;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    transition: all 0.2s ease-in-out;
+}
+
+.logout-btn:hover {
+    background-color: #17A2B8;
+    color: #ffffff;
+}
