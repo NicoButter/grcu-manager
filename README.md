@@ -8,7 +8,7 @@
 👥 **Team:** 4Bytes 
 
 <p align="center">
-  <img src="img/4bytes_logo.png" alt="Logo UNPA" width="120"/>
+  <img src="img/4bytes_logo.png" alt="Logo UNPA" width="240"/>
 </p>
 
 ---
