@@ -9,13 +9,13 @@
 {% endblock %}
 
 {% block content %}
-<div style="display: flex; justify-content: center; align-items: center; min-height: 80vh;">
+<div style="display: flex; justify-content: center; align-items: flex-start; padding-top: 2rem; min-height: 60vh;">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-8 col-lg-6">
+            <div class="col-md-10 col-lg-10">  <!-- ¡Más ancho! -->
                 <!-- Contenido principal -->
                 <div class="card shadow-sm border-0">
-                    <div class="card-header bg-white border-bottom">
+                    <div class="card-header card-header-custom border-bottom">
                         <h3 class="mb-0">GRCU Manager - Login</h3>
                     </div>
                     <div class="card-body p-4">
@@ -25,7 +25,7 @@
                         </p>
 
                         <!-- Mensaje importante -->
-                        <div class="alert alert-info alert-dismissible fade show" role="alert">
+                        <div class="alert alert-info alert-dismissible fade show" role="alert" >
                             <i class="bi bi-exclamation-circle me-2"></i>
                             <strong>Importante:</strong> Para acceder al sistema es necesario disponer de un correo de <a href="https://mail.google.com" target="_blank">GMail</a>.
                         </div>
@@ -39,10 +39,9 @@
 
                         <!-- Botón de Google -->
                         <a href="{% url 'accounts:google_login_redirect' %}" class="btn-google">
-                            <img src="{% static 'accounts/img/logo_google.png' %}" alt="Google Icon">
+                            <img src="{% static 'accounts/img/logo_google.png' %}" alt="Google Icon" style="height: 20px; margin-right: 8px;">
                             Login con Google
                         </a>
-
                     </div>
                 </div>
             </div>

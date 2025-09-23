@@ -1,0 +1,39 @@
+{% extends "core/base.html" %}
+{% load static %}
+
+{% block title %}Configurar Administrador{% endblock %}
+
+{% block content %}
+<div class="container mt-5">
+  <div class="card shadow-lg border-0 rounded-4 p-4 mx-auto" style="max-width: 500px;">
+    <h3 class="mb-4 text-center">Configurar Administrador</h3>
+    <p class="text-muted text-center">Ingresá el correo de Google del administrador inicial.</p>
+
+    {% if messages %}
+    <div class="alert alert-danger">
+        {% for message in messages %}
+        {{ message }}
+        {% endfor %}
+    </div>
+    {% endif %}
+
+    <form method="post">
+      {% csrf_token %}
+
+      <div class="mb-3">
+        <label class="form-label">Correo electrónico</label>
+        <input type="email" name="email" class="form-control" required>
+      </div>
+
+      <div class="mb-3">
+        <label class="form-label">Confirmar correo</label>
+        <input type="email" name="email_confirm" class="form-control" required>
+      </div>
+
+      <div class="d-grid">
+        <button type="submit" class="btn btn-primary">Guardar administrador</button>
+      </div>
+    </form>
+  </div>
+</div>
+{% endblock %}

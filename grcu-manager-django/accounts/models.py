@@ -1,4 +1,3 @@
-# usuarios/models.py
 from django.contrib.auth.models import AbstractUser
 from django.db import models
 from roles.models import Rol  # Importamos Rol desde la app roles

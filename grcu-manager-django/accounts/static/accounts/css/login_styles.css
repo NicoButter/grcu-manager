@@ -4,7 +4,7 @@ body {
 }
 
 .card {
-    border-radius: 16px;
+    /* border-radius: 16px; */
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s ease-in-out;
 }
@@ -13,13 +13,13 @@ body {
     transform: translateY(-3px);
 }
 
-.card-header {
+.card-header-custom {
+    background-color: #F7F7F7 !important;
+    border-bottom-color: #dee2e6 !important;
     text-align: center;
     font-weight: bold;
     font-size: 1.3rem;
-    background: linear-gradient(90deg, #0d6efd, #0b5ed7);
-    color: white;
-    border-radius: 16px 16px 0 0 !important;
+    color: #333; /* Color de texto oscuro para contraste */
 }
 
 .card-body {
@@ -38,7 +38,6 @@ body {
     gap: 8px;
     transition: all 0.2s ease-in-out;
 }
-
 
 .btn-google img {
     height: 15px;
@@ -70,4 +69,15 @@ body {
     background: #f8f9fa;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
     cursor: pointer;
+}
+
+.alert-info {
+    background-color: #F8D7DA !important;
+    border-color: #f5c6cb !important;
+    color: #721c24 !important;
+}
+
+.alert-info a {
+    color: #491217 !important;
+    font-weight: bold;
 }

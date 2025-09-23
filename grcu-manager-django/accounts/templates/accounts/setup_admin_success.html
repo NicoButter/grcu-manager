@@ -1,0 +1,16 @@
+{% extends "core/base.html" %}
+{% load static %}
+
+{% block title %}Administrador creado{% endblock %}
+
+{% block content %}
+<div class="container mt-5 text-center">
+  <div class="card shadow-lg border-0 rounded-4 p-5 mx-auto" style="max-width: 500px;">
+    <h3 class="mb-3">¡Administrador configurado!</h3>
+    <p>El correo <strong>{{ email }}</strong> fue registrado como administrador del sistema.</p>
+    <p class="text-muted">Ahora podés iniciar sesión con Google.</p>
+    
+    <a href="{% url 'accounts:login' %}" class="btn btn-success mt-3">Aceptar</a>
+  </div>
+</div>
+{% endblock %}
