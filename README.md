@@ -121,7 +121,11 @@ Su propósito principal es ofrecer a equipos de desarrollo una herramienta prác
 |:------------------------------:|:--------------------------:|:------------------------:|:--------------------------------:|
 | **Martina Gagna**              | **Abril Alvarez**          | **Nicolás Butterfield**  | **Cristian Carranza**            |
 
-**Dev Team: 4Bytes**  
+**Dev Team:**
+
+<p align="center">
+  <img src="img/4bytes_logo.png" alt="Logo UNPA" width="150"/>
+</p>
 
 ---
 
