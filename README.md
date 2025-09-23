@@ -37,7 +37,7 @@ Su propósito principal es ofrecer a equipos de desarrollo una herramienta prác
 
 ## 🖥 Capturas de pantalla  
 
-> *(Aquí podés insertar screenshots relevantes del sistema en uso — ej. login, panel principal, matriz de trazabilidad, etc.)*  
+> *Dashboard inicial de Administración - Pantalla de administración de usuarios*  
 
 <p align="center">
   <img src="img/captura_1.png" width="600" alt="Captura 1"/>
