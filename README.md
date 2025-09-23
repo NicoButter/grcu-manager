@@ -5,7 +5,7 @@
 # 📌 GRCU Manager – Gestor de Requerimientos y Casos de Uso  
 
 📊 **Sistema académico desarrollado para la materia _Laboratorio de Desarrollo de Software_ (UNPA)**  
-👥 **Team:** 4Bytes 
+👥 **Team:**
 
 <p align="center">
   <img src="img/4bytes_logo.png" alt="Logo UNPA" width="240"/>
@@ -37,11 +37,13 @@ Su propósito principal es ofrecer a equipos de desarrollo una herramienta prác
 
 ## 🖥 Capturas de pantalla  
 
-> *Dashboard inicial de Administración - Pantalla de administración de usuarios*  
+> *Dashboard inicial de Administración*  
 
 <p align="center">
   <img src="img/captura_1.png" width="600" alt="Captura 1"/>
 </p>  
+
+> *Pantalla de administración de usuarios y Roles*
 
 <p align="center">
   <img src="img/captura_2.png" width="600" alt="Captura 2"/>
